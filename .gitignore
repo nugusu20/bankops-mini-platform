@@ -1,0 +1,9 @@
+# os / editors
+.ds_store
+.vscode/
+.idea/
+
+# logs
+*.log
+
+#secrets 
