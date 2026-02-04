@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bankops-api
-        image: bankops-api:0.1
+        image: bankops-api:0.2
         ports:
         - containerPort: 8080
         livenessProbe:
